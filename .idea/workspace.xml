@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7acddfce-0110-43ee-b8d7-e1bff7bacff6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ConsoleIO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/StringExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/techit-2023/StringExample.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/techit-2023/StringExample.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ConsoleIO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ConsoleIO.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StringExample">
+  <component name="RunManager" selected="Application.ConsoleIO">
+    <configuration name="ConsoleIO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ConsoleIO" />
+      <module name="techit-2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Main" />
       <module name="techit-2023" />
@@ -65,6 +70,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ConsoleIO" />
         <item itemvalue="Application.StringExample" />
         <item itemvalue="Application.Main" />
       </list>
